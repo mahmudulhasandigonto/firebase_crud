@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57014917635",
+    "project_id": "trytolearn-2024c",
+    "storage_bucket": "trytolearn-2024c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57014917635:android:70f6a5ce35c03463bd8c36",
+        "android_client_info": {
+          "package_name": "com.example.trytolearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57014917635-0egv2mnqsiqoesuh696r7pjurbnjs6fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfixLuyd6ldlw-hO2HANG0jg6ZD8qUP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57014917635-0egv2mnqsiqoesuh696r7pjurbnjs6fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
